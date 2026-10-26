@@ -1,0 +1,21 @@
+Area,Checklist item,Owner,Frequency,Status
+People,All staff complete ransomware and phishing awareness training,Office manager,Every 6 months,Not started
+People,Staff know how to report a suspicious email or locked computer immediately,Office manager,Once then refresh annually,Not started
+Email,Spam and malicious-attachment filtering is enabled,IT contractor,Check quarterly,Not started
+Passwords,Every account uses a unique strong password,IT contractor,Review quarterly,Not started
+Passwords,Multi-factor authentication is enabled for email cloud accounts and remote access,IT contractor,Check monthly,Not started
+Devices,Operating systems browsers and business software receive security updates,IT contractor,Weekly,Not started
+Devices,Antivirus or endpoint protection is installed and active,IT contractor,Check monthly,Not started
+Network,Remote-access tools are not exposed to the internet without MFA and allowlisting,IT contractor,Check quarterly,Not started
+Backups,Important data has at least three copies,Office manager,Check monthly,Not started
+Backups,Backups use two different storage types or platforms,IT contractor,Check monthly,Not started
+Backups,One backup copy is offline or immutable,IT contractor,Check weekly,Not started
+Backups,Backup restoration is tested using a non-production file or system,IT contractor,Monthly,Not started
+Backups,Backup accounts are protected by MFA and separate credentials,IT contractor,Check quarterly,Not started
+Recovery,Critical systems and recovery order are documented,Office manager,Review every 6 months,Not started
+Recovery,Emergency contacts for IT support insurer and authorities are documented,Office manager,Review every 6 months,Not started
+Recovery,Paper or offline copies of the recovery plan are available,Office manager,Review every 6 months,Not started
+Incident response,Staff know to disconnect suspect devices from the network but not destroy evidence,IT contractor,Train at onboarding,Not started
+Incident response,A simple incident log template is available,Office manager,Keep ready,Not started
+Vendors,Cloud and software vendors provide export or backup options,Office manager,Review annually,Not started
+Ethics and legal,Data-protection and breach-notification obligations are reviewed with a qualified adviser,Owner,Review annually,Not started
